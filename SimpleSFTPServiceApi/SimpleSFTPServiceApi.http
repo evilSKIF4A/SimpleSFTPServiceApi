@@ -1,0 +1,6 @@
+@SimpleSFTPServiceApi_HostAddress = http://localhost:5250
+
+GET {{SimpleSFTPServiceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

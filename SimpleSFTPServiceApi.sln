@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSFTPServiceApi", "SimpleSFTPServiceApi\SimpleSFTPServiceApi.csproj", "{F8AF7D70-F4D3-48A5-96E4-10E7B41ABF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8AF7D70-F4D3-48A5-96E4-10E7B41ABF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AF7D70-F4D3-48A5-96E4-10E7B41ABF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AF7D70-F4D3-48A5-96E4-10E7B41ABF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AF7D70-F4D3-48A5-96E4-10E7B41ABF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
